@@ -1,0 +1,15 @@
+.photo{
+    border-style: solid;
+    padding: 15px;
+}
+.personal-info{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.favorites{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.others{
+    font-family: Arial, Helvetica, sans-serif;
+}
